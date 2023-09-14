@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	width: 80vw;
+	height: auto;
+	margin-inline: 10vw;
+}
+.movieDetail{
+	position: relative;
+	top: 10px;
+	width: 90vw;
+	margin-inline: 5vw;
+	text-align: center;
+	font-size: 20px;
+}
